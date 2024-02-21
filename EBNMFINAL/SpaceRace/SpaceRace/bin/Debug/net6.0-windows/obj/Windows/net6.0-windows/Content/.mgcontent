@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/Alien_death.png</File>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/Alien_idle.png</File>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/Alien_jump.png</File>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/Alien_run.png</File>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/Astronaut_Death.png</File>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/Astronaut_Idle.png</File>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/Astronaut_Jump.png</File>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/Astronaut_Run.png</File>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/Diamond.png</File>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/EnergyPack.png</File>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/GlassShards.png</File>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/RockShards.png</File>
+    <File>C:/Users/ethan/OneDrive/CPASemester3/PROG2370GameProgDataStructures/FinalProject/SpaceRace/SpaceRace/bin/Debug/net6.0-windows/Content/Sprites/RunnerTileSet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

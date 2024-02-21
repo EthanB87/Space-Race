@@ -1,0 +1,52 @@
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SpaceRace.exe
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/(Level 1) kim-lightyear-legends-109307.wma
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/(Level 1) kim-lightyear-legends-109307.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/(Level 2) kim-lightyear-you-and-i-161104.wma
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/(Level 2) kim-lightyear-you-and-i-161104.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/(Level 3) broken-bitz-170656.wma
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/(Level 3) broken-bitz-170656.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/7481714.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/Alien_death.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/Alien_idle.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/Alien_jump.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/Alien_run.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/Astronaut_Death.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/Astronaut_Idle.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/Astronaut_Jump.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/Astronaut_Run.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/cartoon-jump-6462.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/Diamond.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/File.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/Highlight.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/item-pick-up-38258.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/Levels\level1.tmx
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/Moon.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/scifi_platform.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/scifi_platform2.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Content/spacebackground1.xnb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SpaceRace.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SpaceRace.deps.json
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SpaceRace.runtimeconfig.json
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SpaceRace.pdb
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Microsoft.CodeAnalysis.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\MonoGame.Framework.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SharpDX.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SharpDX.Direct2D1.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SharpDX.Direct3D11.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SharpDX.Direct3D9.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SharpDX.DXGI.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SharpDX.Mathematics.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SharpDX.MediaFoundation.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SharpDX.XAudio2.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\SharpDX.XInput.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\TiledSharp.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\runtimes\debian-x64\native\libuv.so
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\runtimes\fedora-x64\native\libuv.so
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\runtimes\opensuse-x64\native\libuv.so
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\runtimes\osx\native\libuv.dylib
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\runtimes\rhel-x64\native\libuv.so
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\runtimes\win7-arm\native\libuv.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\runtimes\win7-x64\native\libuv.dll
+C:\Users\ethan\OneDrive\CPASemester3\SpaceRace (2)\SpaceRace\SpaceRace\bin\Release\net6.0-windows\app.publish\runtimes\win7-x86\native\libuv.dll

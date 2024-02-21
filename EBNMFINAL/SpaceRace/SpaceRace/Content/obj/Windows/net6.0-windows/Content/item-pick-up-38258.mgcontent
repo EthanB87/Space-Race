@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/ethan/OneDrive/CPASemester3/SpaceRace (2)/SpaceRace/SpaceRace/Content/item-pick-up-38258.wav</SourceFile>
+  <SourceTime>2023-12-10T16:04:28-05:00</SourceTime>
+  <DestFile>C:/Users/ethan/OneDrive/CPASemester3/SpaceRace (2)/SpaceRace/SpaceRace/Content/bin/Windows/Content/item-pick-up-38258.xnb</DestFile>
+  <DestTime>2023-12-10T23:45:51.1874121-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/ethan/OneDrive/CPASemester3/SpaceRace (2)/SpaceRace/SpaceRace/Content/(Level 1) kim-lightyear-legends-109307.mp3</SourceFile>
+  <SourceTime>2023-11-27T17:04:24-05:00</SourceTime>
+  <DestFile>C:/Users/ethan/OneDrive/CPASemester3/SpaceRace (2)/SpaceRace/SpaceRace/Content/bin/Windows/Content/(Level 1) kim-lightyear-legends-109307.xnb</DestFile>
+  <DestTime>2023-12-10T23:45:45.5687764-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/ethan/OneDrive/CPASemester3/SpaceRace (2)/SpaceRace/SpaceRace/Content/bin/Windows/Content/(Level 1) kim-lightyear-legends-109307.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
